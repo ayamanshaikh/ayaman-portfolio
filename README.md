@@ -1,3 +1,6 @@
+## Open Source Contribution
+Improved project documentation for GSSoC.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
